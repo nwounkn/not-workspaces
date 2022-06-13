@@ -1,0 +1,9 @@
+{
+  "uuid": "not-workspaces@nwounkn",
+  "name": "Not Workspaces",
+  "description": "Quickly switch between windows' positions",
+  "shell-version": [ "42" ],
+  "url": "https://github.com/nwounkn/not-workspaces",
+  "version": 1,
+  "session-modes": [ "user", "unlock-dialog" ]
+}
